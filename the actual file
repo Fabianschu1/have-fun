@@ -1,14 +1,15 @@
-def no (count, msg):
+def repeat_msg (count, msg):
     while count > 0:
         print(msg)
         count -=1
-print ("Fabian: Do you like cheese as much as i do???")
+print ("chickenz: Do you like cheese as much as i do???")
 print ("Just a random person: No that's literally impossible u like cheese the most for sure")
-no(100,'Fabian: KAAS')
-print("Fabian: hey sup yno im kind of a coder look ill show you how u can do something cool")
-print("Fabian: look down below this")
+#change this number to the amount you want it to be
+repeat_msg(100,'chickenz: KAAS')
+print("chickenz: hey sup yno im kind of a coder look ill show you how u can do something cool")
+print("chickenz: look down below this")
 print ("well apperently it won't work so ill just have to tell u that all of this has been coded by me just look left on your screen bruh")
 print("Random person: thats pretty cool actually")
-print("Fabian: wow thx i really appreciate it")
-print("NOW  MAKE YOUR OWN STORY (this was made by Fabian)")
-print ("(this was copyrighted by Fabian ©")
+print("chickenz: wow thx i really appreciate it")
+print("NOW  MAKE YOUR OWN STORY (this was made by chickenz)")
+print ("(this was copyrighted by chickenz ©")
