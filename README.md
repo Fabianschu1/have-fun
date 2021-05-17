@@ -1,4 +1,4 @@
-Just edit it and you can have fun this is my story and it really sucks so pls make your own
+Just edit it and you can have fun this is my story and it really sucks so pls make your own.
 and if you are gonna use it use this site https://www.programiz.com/python-programming/online-compiler/
-(it has been made with python so do not use anything else because it won't work
-if you are there make sure you delete everything that's already written
+. (it has been made with python so do not use anything else because it won't work.
+if you are there make sure you delete everything that's already written.
